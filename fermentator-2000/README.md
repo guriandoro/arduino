@@ -13,6 +13,7 @@ And optionally:
 ```
 
 The light relay will turn ON for `LIGHT_ON_SECS` when `(temp < LOW_TEMP)`.
+
 The fan relay will turn ON for `FAN_ON_SECS` when `(temp > HIGH_TEMP)`.
 
 ![alt text](https://raw.githubusercontent.com/guriandoro/arduino/master/fermentator-2000/fermentator-2000.JPG)
