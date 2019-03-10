@@ -18,3 +18,5 @@ The fan relay will turn ON for `FAN_ON_SECS` when `(temp > HIGH_TEMP)`.
 
 ![alt text](https://raw.githubusercontent.com/guriandoro/arduino/master/fermentator-2000/fermentator-2000.JPG)
 Note: there is only one relay connected here
+
+![alt text](https://raw.githubusercontent.com/guriandoro/arduino/master/fermentator-2000/connections-back.JPG)
